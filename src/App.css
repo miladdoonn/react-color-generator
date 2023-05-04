@@ -1,5 +1,5 @@
 .App {
-  background-color: #444;
+  background-color: #4e550e;
   padding: 500px;
   height: 100px;
   display: flex;
@@ -9,7 +9,7 @@
 
 .App > div {
   background-color: #808000;
-  padding: 60px 20px;
+  padding: 120px 20px;
   margin: 20px;
   border-radius: 20px;
   width: 300px;
