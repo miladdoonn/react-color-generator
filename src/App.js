@@ -4,7 +4,6 @@ import { useState } from 'react';
 
 export default function App() {
   const [color, setColor] = useState(randomColor);
-  const [colorName, setColorName] = useState('');
 
   return (
     <div className="App">
